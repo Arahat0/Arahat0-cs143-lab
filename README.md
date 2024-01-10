@@ -1,2 +1,2 @@
 # Arahat0-cs143-lab
-Write a Cool Compiler
+**Follow CS143: Compilers Write a Cool Compiler**
